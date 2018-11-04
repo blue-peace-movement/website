@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Swiss Development Cooperation"  # (translatable)
 BLOG_TITLE = "Blue Peace"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://www.bluepeace.org/"
+SITE_URL = "https://www.thebluepeace.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://www.bluepeace.org/"
