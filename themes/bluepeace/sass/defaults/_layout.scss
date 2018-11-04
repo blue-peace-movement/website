@@ -1,0 +1,27 @@
+/*----------------------------------------*\
+  LAYOUT
+\*----------------------------------------*/
+
+body {
+  background-color: #f2f2f2;
+
+  // On iOS, enable the trigger of "blur" events when
+  // the user clicks on non-interactive elements
+  // For example to close a tooltip
+  @supports (-webkit-touch-callout: none) {
+    cursor: pointer;
+  }
+}
+
+hr {
+  width: 100%;
+  margin-top: $spacing-unit-default;
+  margin-bottom: $spacing-unit-default;
+
+  border: 1px solid $alt-color-light;
+  border-width: 1px 0 0;
+}
+
+figure {
+  margin: 0;
+}

@@ -1,0 +1,139 @@
+/*----------------------------------------*\
+  TYPOGRAPHY
+\*----------------------------------------*/
+
+
+/**
+ * Headings
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  margin-bottom: 20px;
+
+  color: $brand-color-light;
+  font-family: $font-family-alt;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+h1,
+.h1 {
+  font-size: rem(25px);
+}
+
+h2,
+.h2 {
+  font-size: rem(20px);
+}
+
+h3,
+.h3 {
+  font-size: rem(16px);
+}
+
+h4,
+.h4 {
+  font-size: rem(15px);
+}
+
+h5,
+.h5 {
+  font-size: rem(14px);
+}
+
+h6,
+.h6 {
+  font-size: rem(13px);
+}
+
+@include media('sm') {
+  h1,
+  .h1 {
+    font-size: rem(30px);
+  }
+
+  h2,
+  .h2 {
+    font-size: rem(20px);
+  }
+
+  h3,
+  .h3 {
+    font-size: rem(16px);
+  }
+}
+
+@include media('lg') {
+  h1,
+  .h1 {
+    font-size: rem(45px);
+  }
+
+  h2,
+  .h2 {
+    font-size: rem(36px);
+  }
+
+  h3,
+  .h3 {
+    font-size: rem(20px);
+  }
+
+  h4,
+  .h4 {
+    font-size: rem(18px);
+  }
+
+  h5,
+  .h5 {
+    font-size: rem(16px);
+  }
+
+  h6,
+  .h6 {
+    font-size: rem(15px);
+  }
+}
+
+.heading-alt,
+%heading-alt {
+  font-family: $font-family-default;
+  font-weight: 600;
+}
+
+
+/**
+ * Links
+ */
+
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: $brand-color-light;
+  }
+}
+
+.link-negative {
+  color: white;
+
+  &:hover,
+  &:focus {
+    color: white;
+    opacity: .7;
+  }
+}
