@@ -18,7 +18,7 @@
 {% macro html_site_title() %}
     <h1 id="brand" class="mrgt+"><a href="/" title="{{ blog_title|e }}" rel="home">
     {% if logo_url %}
-        <img src="{{ logo_url }}" alt="{{ blog_title|e }}" id="logo" width="400" height="61">
+        <img src="{{ logo_url }}" alt="{{ blog_title|e }}" id="logo" srcset="{{ logo_url }} 2x" class="img-responsive">
     {% endif %}
 
     {% if show_blog_title %}
@@ -29,7 +29,7 @@
 
 {% macro html_navigation_links() %}
     <nav id="menu">
-    <ul>
+    <ul class="list-inline list-inline--divided">
     {{ html_navigation_links_entries(navigation_links) }}
     {{ html_navigation_links_entries(navigation_alt_links) }}
     {{ template_hooks['menu']() }}

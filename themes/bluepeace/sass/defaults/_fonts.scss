@@ -6,7 +6,25 @@
 /**
  * NewParis Headline
  */
+@font-face{
+  font-family: 'NewParis Headline';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/NewParisHeadline-Bold-WebS.eot');
+  src: url('../fonts/NewParisHeadline-Bold-WebS.eot#iefix') format('embedded-opentype'),
+       url('../fonts/NewParisHeadline-Bold-WebS.woff2') format('woff2'),
+       url('../fonts/NewParisHeadline-Bold-WebS.woff') format('woff');
+}
 
+@font-face{
+  font-family: 'NewParis Headline';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/NewParisHeadline-Regular-WebS.eot');
+  src: url('../fonts/NewParisHeadline-Regular-WebS.eot#iefix') format('embedded-opentype'),
+       url('../fonts/NewParisHeadline-Regular-WebS.woff2') format('woff2'),
+       url('../fonts/NewParisHeadline-Regular-WebS.woff') format('woff');
+}
 
 /**
  * Work Sans
