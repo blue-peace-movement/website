@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Swiss Development Cooperation"  # (translatable)
+BLOG_AUTHOR = "Swiss Agency for Development and Cooperation (SDC)"  # (translatable)
 BLOG_TITLE = "Blue Peace"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
