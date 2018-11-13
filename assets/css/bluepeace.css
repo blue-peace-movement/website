@@ -642,7 +642,7 @@ object {
 html {
   font-family: "Work Sans", sans-serif;
   font-size: 100%;
-  line-height: 1.45;
+  line-height: 1.75;
   color: #232323;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -832,7 +832,7 @@ td {
   color: inherit;
   font-size: inherit;
   font-family: inherit;
-  line-height: 1.45;
+  line-height: 1.75;
   border: 1px solid #c9c9c9;
   background-color: white;
   border-radius: 4px;
@@ -855,7 +855,7 @@ td {
 }
 
 select.field {
-  height: 42px;
+  height: 47px;
 }
 
 textarea.field {
@@ -882,7 +882,7 @@ textarea.field {
 }
 
 select.field--small {
-  height: 28px;
+  height: 31px;
 }
 
 .field--large {
@@ -893,7 +893,7 @@ select.field--small {
 }
 
 select.field--large {
-  height: 66px;
+  height: 73px;
 }
 
 /**
