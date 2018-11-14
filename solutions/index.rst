@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 
+
 The Drama of Water
 ------------------
 
@@ -52,3 +53,4 @@ A variety of international institutions are working on water issues, ranging fro
 
 The Panel thus proposes the Global Observatory for Water and Peace (GOWP) to facilitate assistance to governments in using water as an instrument of cooperation, in avoiding tension and conflicts, and to build peace. The GOWP would work closely with existing organizations at the global and regional level, which specialize in water cooperation and harnessing the potential of water in building peace. The new mechanism would focus on hydro-diplomacy beyond joint management, and would also engage in consultative activities necessary for the creation of “safe spaces” for financing transboundary water cooperation projects.
 
+*Source: "Matter of Survival” - Report by the Global High-Level Panel on Water and Peace (2017)*
