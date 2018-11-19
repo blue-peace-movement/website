@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 
+{{% rokka_image url='https://bluepeace.rokka.io/page-banner_default/options-dpr-2/eff05521a398f63b7b10c2b633ccebdba3a1e895.jpg' alt='' %}}
 
 The Drama of Water
 ------------------

@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-{{% rokka_image url='https://bluepeace.rokka.io/page-banner_default/options-dpr-2/9bb18da8f9277887f66484ed2fc479413bf832e3.jpg' alt='' %}}
+{{% rokka_image url='https://bluepeace.rokka.io/page-banner_default/options-dpr-2/10f1a9f1056617c1dbf5592f8bbff3b8ec11ee67.jpg' alt='' %}}
 
 Appealing for cross-border cooperation
 --------------------------------------
