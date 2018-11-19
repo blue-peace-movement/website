@@ -6,39 +6,43 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://www.thebluepeace.com/</loc>
-  <lastmod>2018-11-07T12:10:00Z</lastmod>
+  <loc>https://www.thebluepeace.org/</loc>
+  <lastmod>2018-11-19T12:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/archive.html</loc>
-  <lastmod>2018-11-13T21:57:00Z</lastmod>
+  <loc>https://www.thebluepeace.org/archive.html</loc>
+  <lastmod>2018-11-19T12:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/blue-peace-in-action/</loc>
+  <loc>https://www.thebluepeace.org/blue-peace-in-action/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/categories/</loc>
+  <loc>https://www.thebluepeace.org/categories/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/challenges/</loc>
+  <loc>https://www.thebluepeace.org/challenges/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/facts-figures/</loc>
+  <loc>https://www.thebluepeace.org/facts-figures/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/galleries/</loc>
+  <loc>https://www.thebluepeace.org/galleries/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/listings/</loc>
+  <loc>https://www.thebluepeace.org/listings/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.thebluepeace.com/solutions/</loc>
+  <loc>https://www.thebluepeace.org/solutions/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/twitter/</loc>
+  <lastmod>2018-11-19T12:25:00Z</lastmod>
  </url>
 </urlset>

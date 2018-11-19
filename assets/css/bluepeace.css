@@ -3730,3 +3730,10 @@ figure {
     -webkit-overflow-scrolling: touch;
   }
 }
+#footer {
+  line-height: 1.25em;
+}
+#footer img {
+  display: inline-block;
+  vertical-align: middle;
+}

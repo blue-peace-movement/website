@@ -1,4 +1,4 @@
-Sitemap: https://www.thebluepeace.com/sitemapindex.xml
+Sitemap: https://www.thebluepeace.org/sitemapindex.xml
 
 User-Agent: *
-Host: www.thebluepeace.com
+Host: www.thebluepeace.org
