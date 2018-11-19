@@ -20,11 +20,11 @@ BLOG_AUTHOR = "Swiss Agency for Development and Cooperation (SDC)"  # (translata
 BLOG_TITLE = "Blue Peace"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://www.thebluepeace.com/"
+SITE_URL = "https://www.thebluepeace.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://www.bluepeace.org/"
-BLOG_EMAIL = "eileen.hofstetter@eda.admin.ch"
+BLOG_EMAIL = "water@eda.admin.ch"
 BLOG_DESCRIPTION = "The Blue Peace movement is a growing global movement to create a peace culture and to foster economic prosperity, resilience building, trust and stability, by sharing the common interests of preserving the precious resources of fresh water and achieving equitable and sustainable use of water across boundaries, sectors and generations."  # (translatable)
 
 # Nikola is multilingual!
@@ -136,10 +136,10 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/blue-peace-in-action", "Blue Peace in action"),
         ("/challenges", "Challenges"),
         ("/facts-figures", "Facts & Figures"),
         ("/solutions", "Solutions"),
+        ("/blue-peace-in-action", "Blue Peace in action"),
     ),
 }
 
@@ -907,18 +907,11 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
-# I recommend using the Creative Commons' wizard:
-# https://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
+LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.'
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date} - {author} {license}'
+CONTENT_FOOTER = '{license} <br><a href="mailto:{email}" title="email author">{author}</a> - {date} '
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
