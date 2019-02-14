@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Swiss Agency for Development and Cooperation (SDC)"  # (translatable)
+BLOG_AUTHOR = ""  # (translatable)
 BLOG_TITLE = "Blue Peace"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -24,7 +24,7 @@ SITE_URL = "https://www.thebluepeace.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://www.bluepeace.org/"
-BLOG_EMAIL = "water@eda.admin.ch"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "The Blue Peace movement is a growing global movement to create a peace culture and to foster economic prosperity, resilience building, trust and stability, by sharing the common interests of preserving the precious resources of fresh water and achieving equitable and sustainable use of water across boundaries, sectors and generations."  # (translatable)
 
 # Nikola is multilingual!
@@ -911,7 +911,7 @@ LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '{license} <br><a href="mailto:{email}" title="email author">{author}</a> - {date} '
+CONTENT_FOOTER = '{license} {date} '
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
