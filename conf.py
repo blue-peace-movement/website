@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         ("/facts-figures", "Facts & Figures"),
         ("/solutions", "Solutions"),
         ("/blue-peace-in-action", "Blue Peace in action"),
+        ("/investing-in-blue-peace", "Investing in Blue Peace"),
     ),
 }
 
