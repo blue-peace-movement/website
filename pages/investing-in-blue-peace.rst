@@ -1,4 +1,4 @@
-.. title: Invest in Peace through Water
+.. title: Invest in Blue Peace
 .. slug: investing-in-blue-peace
 .. date: 2019-02-14 22:23:30 UTC+01:00
 .. tags: 
@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-{{% rokka_image url='https://bluepeace.rokka.io/page-banner_default/options-dpr-2/eff05521a398f63b7b10c2b633ccebdba3a1e895.jpg' alt='' %}}
+{{% rokka_image url='https://bluepeace.rokka.io/page-banner_default/options-dpr-2/56208d97da0a29b95384f387041b0cccf5e39117.jpg' alt='' %}}
 
 Water has an inestimable value and therefore should not be traded as a commodity as such. What should be traded are the public goods and livelihood assets derived from water to ensure that while everybody has equitable access to these, water will be available in the same quality and quantity both at the entry and exit points of their production cycle. For this we use the term ‘circular economy’. The aim of this paper is to introduce a new way of financing transboundary and multisectoral water cooperation by creating new ways to access financial capital through a Blue Peace approach, which will lead to circular economies and stable societies. Blue Peace is about transforming water from a potential source of crisis into a potential instrument of cooperation and peace through concrete actions, using water as an entry point for transboundary cooperation.
 
@@ -18,7 +18,7 @@ The aim of this paper below is to show that a new generation of financial instru
 
 Read the full paper here:
 
-* `An interesting paper (PDF; 3.4MB) </obsan-wireframes-20140616.pdf>`_
+* `Blue Peace - Invest In Peace Through Water (PDF; 4.1 MB) </Invest_in_Peace_through_Water.pdf>`_
 
 Acknowledgment
 --------------
