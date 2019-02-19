@@ -1,5 +1,5 @@
 .. title: Invest in Blue Peace
-.. slug: investing-in-blue-peace
+.. slug: invest-in-blue-peace
 .. date: 2019-02-14 22:23:30 UTC+01:00
 .. tags: 
 .. category: 
