@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.thebluepeace.org/</loc>
-  <lastmod>2019-02-19T21:15:00Z</lastmod>
+  <lastmod>2019-02-19T21:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/archive.html</loc>
@@ -32,6 +32,10 @@
  <url>
   <loc>https://www.thebluepeace.org/galleries/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/invest-in-blue-peace/</loc>
+  <lastmod>2019-02-19T21:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/investing-in-blue-peace/</loc>
