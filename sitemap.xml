@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.thebluepeace.org/</loc>
-  <lastmod>2018-11-19T12:25:00Z</lastmod>
+  <lastmod>2019-02-19T21:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/archive.html</loc>
-  <lastmod>2018-11-19T12:44:00Z</lastmod>
+  <lastmod>2019-02-19T21:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/blue-peace-in-action/</loc>
@@ -34,15 +34,15 @@
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.thebluepeace.org/investing-in-blue-peace/</loc>
+  <lastmod>2019-02-14T21:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.thebluepeace.org/listings/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/solutions/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.thebluepeace.org/twitter/</loc>
-  <lastmod>2018-11-19T12:25:00Z</lastmod>
  </url>
 </urlset>
