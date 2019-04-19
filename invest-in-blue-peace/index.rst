@@ -19,6 +19,7 @@ The aim of this paper below is to show that a new generation of financial instru
 Read the full paper here:
 
 * `Blue Peace - Invest In Peace Through Water (PDF; 4.1 MB) </Invest_in_Peace_through_Water.pdf>`_
+* `Blue Peace Investors Brief: A New Way of Impact Investing (PDF; 1.7 MB) </Blue_Peace_Investors_Brief.pdf>`_
 
 Acknowledgment
 --------------
