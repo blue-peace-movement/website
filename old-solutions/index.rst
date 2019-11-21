@@ -1,5 +1,5 @@
 .. title: Solutions
-.. slug: solutions
+.. slug: old-solutions
 .. date: 2018-11-03 23:06:34 UTC+01:00
 .. tags: 
 .. category: 

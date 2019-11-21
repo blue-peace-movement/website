@@ -1,5 +1,5 @@
 .. title: Facts & Figures
-.. slug: facts-figures
+.. slug: old-facts-figures
 .. date: 2018-11-03 23:04:39 UTC+01:00
 .. tags: 
 .. category: 

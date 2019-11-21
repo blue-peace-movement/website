@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.thebluepeace.org/</loc>
-  <lastmod>2019-02-19T21:40:00Z</lastmod>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/archive.html</loc>
@@ -40,6 +40,30 @@
  <url>
   <loc>https://www.thebluepeace.org/listings/</loc>
   <lastmod>2018-11-04T21:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/old-blue-peace-in-action/</loc>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/old-challenges/</loc>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/old-facts-figures/</loc>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/old-index/</loc>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/old-invest-in-blue-peace/</loc>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.thebluepeace.org/old-solutions/</loc>
+  <lastmod>2019-11-21T17:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.thebluepeace.org/solutions/</loc>

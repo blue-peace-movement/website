@@ -1,5 +1,5 @@
 .. title: The Blue Peace Ideal in Action
-.. slug: blue-peace-in-action
+.. slug: old-blue-peace-in-action
 .. date: 2018-11-03 22:55:44 UTC+01:00
 .. tags: 
 .. category: 
