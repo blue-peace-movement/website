@@ -1,5 +1,5 @@
 .. title: Challenges
-.. slug: challenges
+.. slug: old-challenges
 .. date: 2018-11-03 23:03:50 UTC+01:00
 .. tags: 
 .. category: 

@@ -1,5 +1,5 @@
 .. title: Blue Peace
-.. slug: index
+.. slug: old-index
 .. date: 2018-11-03 22:44:12 UTC+01:00
 .. tags: 
 .. category: 

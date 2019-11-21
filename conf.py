@@ -605,7 +605,14 @@ ATOM_FILENAME_BASE = "feed"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+REDIRECTIONS = [
+    ("/index.html", "https://www.thebluepeace.org/"),
+    ("/challenges/index.html", "https://www.thebluepeace.org/"),
+    ("/facts-figures/index.html", "https://www.thebluepeace.org/"),
+    ("/solutions/index.html", "https://www.thebluepeace.org/"),
+    ("/blue-peace-in-action/index.html", "https://www.thebluepeace.org/"),
+    ("/invest-in-blue-peace/index.html", "https://www.thebluepeace.org/"),
+]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -1159,7 +1166,7 @@ GENERATE_ATOM = False
 # <input type="text" name="q" class="form-control" placeholder="Search">
 # </div>
 # <button type="submit" class="btn btn-primary">
-# 	<span class="glyphicon glyphicon-search"></span>
+#   <span class="glyphicon glyphicon-search"></span>
 # </button>
 # <input type="hidden" name="sitesearch" value="%s">
 # </form>
